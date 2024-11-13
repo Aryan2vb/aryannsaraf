@@ -2,7 +2,7 @@ import React from 'react';
 import { Header } from './components/Header';
 import { Profile } from './components/Profile';
 import { ProjectList } from './components/ProjectList';
-import { Writing } from './components/Writing';
+// import { Writing } from './components/Writing';
 import { Footer } from './components/Footer';
 
 function App() {
