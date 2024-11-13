@@ -12,7 +12,7 @@ function App() {
       <main className="max-w-3xl mx-auto px-6 pt-32 space-y-24">
         <Profile />
         <ProjectList />
-        <Writing />
+        {/*<Writing />*/}
         <Footer />
       </main>
     </div>

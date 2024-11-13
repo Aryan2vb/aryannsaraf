@@ -9,19 +9,19 @@ export function Footer() {
         <div className="space-y-2">
           <h3 className="text-white font-medium">Connect</h3>
           <div className="flex gap-4">
-            <Link href="https://github.com">
+            <Link href="https://github.com/Aryan2vb">
               <GithubIcon className="w-5 h-5" />
             </Link>
-            <Link href="https://twitter.com">
+            <Link href="https://twitter.com/aryannsaraf">
               <TwitterIcon className="w-5 h-5" />
             </Link>
-            <Link href="https://linkedin.com">
+            <Link href="https://www.linkedin.com/in/aryan-soni-a5b359275/" target="_blank">
               <LinkedinIcon className="w-5 h-5" />
             </Link>
           </div>
         </div>
         <div className="text-sm">
-          <p>Reach out at hello@example.com</p>
+          <p>Reach out at aryansoni3105@gmail.com</p>
           <p className="mt-1">{new Date().getFullYear()} © All rights reserved</p>
         </div>
       </div>
