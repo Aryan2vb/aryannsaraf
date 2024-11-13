@@ -1,4 +1,3 @@
-import React from 'react';
 import { Project } from './Project';
 import { Link } from './Link';
 import { FaGithub } from 'react-icons/fa';  // Importing GitHub icon from React Icons

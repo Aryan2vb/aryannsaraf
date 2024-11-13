@@ -10,7 +10,7 @@ export function Header() {
         </div>
         <div className="flex gap-6 text-neutral-400">
           <Link href="/posts">posts</Link>
-          <Link href="/public/Resume-Aryan Soni (13).pdf">resume</Link>
+          <Link href="/Resume-Aryan Soni (13).pdf">resume</Link>
         </div>
       </div>
     </nav>
