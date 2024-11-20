@@ -9,7 +9,7 @@ export function Header() {
             <Link href="/">home</Link>
           </div>
           <div className="flex gap-6 text-neutral-400">
-            <Link href="/posts">posts</Link>
+            {/*<Link href="/posts">posts</Link>*/}
             <Link href="/Resume-Aryan Soni (13).pdf">resume</Link>
           </div>
         </div>
