@@ -7,9 +7,9 @@ export function Profile() {
         <div className="space-y-6">
             <div className="space-y-4">
                 <img
-                    src="profile.jpeg"
+                    src="/public/IMG_5042 (1).jpg"
                     alt="Profile"
-                    className="w-16 h-16 rounded-lg"
+                    className="h-[400px] w-[300px] rounded-lg"
                 />
                 <div>
                     <h1 className="text-white text-xl font-medium">Aryan Soni</h1>
