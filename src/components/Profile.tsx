@@ -18,17 +18,24 @@ export function Profile() {
             </div>
 
             <p className="text-neutral-300 leading-relaxed">
-                I am an aspiring software developer with a passion for full-stack development.
-                My journey in technology started with web development, and over the years, I've
-                honed my skills in JavaScript, React.js, Node.js, and several back-end technologies.
-                I'm constantly eager to learn new concepts and stay updated with the latest in the tech world.
+                I’m a software developer focused on backend development and working with databases. I enjoy creating
+                efficient and reliable systems that support the smooth functioning of applications.I’ve
+                worked with technologies like Node.js, Express.js, and databases like MySQL and MongoDB.
+
             </p>
 
             <p className="text-neutral-400">
-                When I'm not coding, you can find me exploring new technologies, collaborating with others on projects,
-                or solving problems through competitive programming. I am passionate about building impactful solutions
-                that can make a difference in the real world.
+                I have a strong interest in designing database schemas, optimizing performance, and developing APIs that
+                enable seamless communication between systems. I find it rewarding to build solutions that are not only
+                functional but also scalable and secure.
             </p>
+            <p className="text-neutral-400">
+                I’m always eager to explore new ideas, collaborate on projects, and learn about emerging technologies.
+                For me, solving challenges and building systems that have a real-world impact is what drives my interest
+                in software development.
+
+            </p>
+
         </div>
     );
 }

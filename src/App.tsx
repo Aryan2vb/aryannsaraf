@@ -9,7 +9,7 @@ function App() {
   return (
     <div className="min-h-screen bg-neutral-900 text-neutral-300">
       <Header />
-      <main className="max-w-3xl mx-auto px-6 pt-32 space-y-24">
+      <main className="max-w-4xl mx-auto px-6 pt-32 space-y-24">
         <Profile />
         <ProjectList />
         {/*<Writing />*/}
