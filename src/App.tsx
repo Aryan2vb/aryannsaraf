@@ -24,7 +24,7 @@ function App() {
                     }
                     return prev + 1;
                 });
-            }, 50); // Slowed down the progress speed (30ms to 50ms)
+            }, 25); // Slowed down the progress speed (30ms to 50ms)
         }
     }, [loading]);
 
