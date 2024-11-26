@@ -18,7 +18,7 @@ export function ProjectList() {
             description: 'This API identifies and manages contacts based on provided email and/or phone number.  It utilizes a MySQL database to store and retrieve contact information.',
             githubLink: 'https://github.com/Aryan2vb/biteSpeed',
             liveLink: 'https://bite-speed-lemon.vercel.app/',
-        }
+        },
         {
             title: 'Campus Issue Tracker API',
             description: 'Platform for students and faculty to report, track, and resolve campus-related issues efficiently.',
