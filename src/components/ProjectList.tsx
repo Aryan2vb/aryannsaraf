@@ -8,7 +8,17 @@ export function ProjectList() {
             description: 'A clone of Hacker News with real-time updates using React and Node.js.',
             githubLink: 'https://github.com/Aryan2vb/hacker-news-clone',
             liveLink: 'https://y-hacker-news.vercel.app/news',
-        },
+        },{
+            title: 'MJrkTRACK',
+            description: 'A comprehensive web application designed for businesses to efficiently manage customer data and ledger entries.',
+            githubLink: 'https://github.com/Aryan2vb/mjrk',
+            liveLink: 'https://mjrk01.vercel.app',
+        },{
+            title: 'biteSpeed',
+            description: 'This API identifies and manages contacts based on provided email and/or phone number.  It utilizes a MySQL database to store and retrieve contact information.',
+            githubLink: 'https://github.com/Aryan2vb/biteSpeed',
+            liveLink: 'https://bite-speed-lemon.vercel.app/',
+        }
         {
             title: 'Campus Issue Tracker API',
             description: 'Platform for students and faculty to report, track, and resolve campus-related issues efficiently.',
