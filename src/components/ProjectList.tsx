@@ -34,8 +34,8 @@ export function ProjectList() {
         {
             title: 'Goibibo Clone',
             description: 'A clone of the Goibibo travel platform with dynamic search and booking features.',
-            githubLink: 'https://github.com/yourusername/goibibo-clone',
-            liveLink: 'https://goibibo-clone.vercel.app',
+            githubLink: 'https://github.com/Aryan2vb/EndSem-Project---Goibibo---EndSem-Projects-Goibibo---xcib2gttdyqe.git',
+            liveLink: 'https://end-sem-project-goibibo-end-sem-projects-goibibo-xcib2gttdyqe.vercel.app',
         },
     ];
 
