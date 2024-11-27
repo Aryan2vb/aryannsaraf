@@ -20,6 +20,12 @@ export function ProjectList() {
             liveLink: 'https://bite-speed-lemon.vercel.app/',
         },
         {
+            title: 'Suggestify',
+            description: 'Suggestify is an intelligent, fast, and efficient autocomplete system built using a hybrid approach that combines the power of a Trie data structure and a MySQL database. Designed to enhance user typing experiences, it offers real-time word suggestions and autocompletion based on user input.',
+            githubLink: 'https://github.com/Aryan2vb/Suggestify-Backend.git',
+            liveLink: 'https://suggestify-2.onrender.com',
+        },
+        {
             title: 'Campus Issue Tracker API',
             description: 'Platform for students and faculty to report, track, and resolve campus-related issues efficiently.',
             githubLink: 'https://github.com/Aryan2vb/Campus-Issue-Tracker',
