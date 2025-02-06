@@ -30,30 +30,6 @@ export function Profile() {
           worked with technologies like Node.js, Express.js, and databases like
           MySQL and MongoDB.
         </p>
-        <div className="mt-6">
-          <h2 className="text-white text-xl font-medium">Work Experience</h2>
-          <div className="mt-2">
-            <h3 className="text-neutral-300 font-medium">
-              Software Engineering Intern
-            </h3>
-            <p className="text-neutral-400">Company Name</p>
-            <p className="text-neutral-400">June 2024 - August 2024</p>
-            <ul className="list-disc list-inside text-neutral-400 ml-6">
-              <li>
-                Developed and maintained backend APIs using Node.js and
-                Express.js.
-              </li>
-              <li>
-                Implemented database schemas and optimized queries for improved
-                performance.
-              </li>
-              <li>
-                Collaborated with a team to deliver projects on time and within
-                budget.
-              </li>
-            </ul>
-          </div>
-        </div>
 
         <p className="text-neutral-400">
           I have a strong interest in designing database schemas, optimizing
