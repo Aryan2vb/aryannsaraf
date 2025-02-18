@@ -10,8 +10,8 @@ export function Header() {
 
   return (
     <nav className="fixed top-0 w-full bg-neutral-900/50 backdrop-blur-sm z-50">
-      <div className="max-w-4xl mx-auto px-6 py-4 flex justify-center items-center">
-        <div className="flex gap-6 text-neutral-400">
+      <div className="max-w-4xl mx-auto px-4 md:px-6 py-4 flex justify-center items-center">
+      <div className="flex gap-4 md:gap-6 text-neutral-400">
           <div
             className={`cursor-pointer ${activeLink === "home" ? "text-white" : "hover:text-white"} transition-colors`}
             onClick={() => handleLinkClick("home")}
