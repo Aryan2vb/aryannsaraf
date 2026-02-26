@@ -38,12 +38,21 @@ export function Profile() {
           only functional but also scalable and secure.
         </p>
 
-        <p className="text-neutral-400 text-sm md:text-base">
-          I’m always eager to explore new ideas, collaborate on projects, and
+<p className="text-neutral-400 text-sm md:text-base">
+          I'm always eager to explore new ideas, collaborate on projects, and
           learn about emerging technologies. For me, solving challenges and
           building systems that have a real-world impact is what drives my
           interest in software development.
         </p>
+
+        <div className="text-neutral-300 text-sm md:text-base">
+          <p className="font-medium mb-2">Relevant Coursework:</p>
+          <p className="text-neutral-400">
+            Advanced Data Structures and Algorithms, Backend Development, MySQL, React, JavaScript,
+            Competitive Programming, Object-Oriented Programming (OOP), Intro to AI/ML, Data Science,
+            Deep Learning, Advanced ML, Probability and Statistics, Database Management Systems, Discrete Maths
+          </p>
+        </div>
       </div>
     </div>
   );
