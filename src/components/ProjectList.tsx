@@ -4,6 +4,16 @@ import { Project } from './Project';
 export function ProjectList() {
     const projects = [
         {
+            title: 'GeoQuery',
+            description: 'Natural Language to Spatial Query Translation - A secure middleware for converting natural language queries like "Find schools within 5km of hospitals" into optimized PostGIS SQL for Delhi OpenStreetMap data.',
+            githubLink: 'https://github.com/Aryan2vb/GeoQuery',
+            liveLink: '',
+        },{
+            title: 'File Organizer (Clippy)',
+            description: 'A trust-centered macOS filesystem organization tool that makes changes explainable, reversible, and unsurprising. Built with SwiftUI, featuring rule-based organization, FSEvents monitoring, and full undo support.',
+            githubLink: 'https://github.com/Aryan2vb/Clippy',
+            liveLink: '',
+        },{
             title: 'Hacker News Clone',
             description: 'A clone of Hacker News with real-time updates using React and Node.js.',
             githubLink: 'https://github.com/Aryan2vb/hacker-news-clone',

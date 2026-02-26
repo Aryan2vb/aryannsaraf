@@ -11,6 +11,25 @@ interface Experience {
 export function WorkExperience() {
   const experiences: Experience[] = [
     {
+      title: "Software Engineer Intern",
+      company: "Go Rattle",
+      dates: "January 2025 - June 2025",
+      techStack: [
+        "NestJS",
+        "PostgreSQL",
+        "MongoDB",
+        "Docker",
+        "Signoz",
+        "Metabase",
+      ],
+      descriptionPoints: [
+        "Contributed to backend services for an AI-powered CRM within an Nx monorepo microservices architecture.",
+        "Implemented secure authentication and authorization flows using access/refresh tokens.",
+        "Developed user management APIs and core REST endpoints for CRM objects.",
+        "Integrated Salesforce data synchronization and utilized Signoz & Metabase for observability.",
+      ],
+    },
+    {
       title: "Software Development Intern",
       company: "Rocketium",
       dates: "January 2025 - February 2025",
