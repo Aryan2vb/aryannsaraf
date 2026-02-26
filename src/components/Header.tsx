@@ -22,7 +22,7 @@ export function Header() {
             className={`cursor-pointer ${activeLink === "resume" ? "text-white" : "hover:text-white"} transition-colors`}
             onClick={() => handleLinkClick("resume")}
           >
-            <Link href="/Aryan_Soni_Resume (7).pdf">resume</Link>
+            <Link href="/Aryan_Soni_Resume.pdf">resume</Link>
           </div>
         </div>
       </div>
