@@ -36,12 +36,6 @@ export function ProjectList() {
             liveLink: 'https://suggestify-2.onrender.com',
         },
         {
-            title: 'Campus Issue Tracker API',
-            description: 'Platform for students and faculty to report, track, and resolve campus-related issues efficiently.',
-            githubLink: 'https://github.com/Aryan2vb/Campus-Issue-Tracker',
-            liveLink: 'https://campus-issue-tracker.vercel.app',
-        },
-        {
             title: 'Goibibo Clone',
             description: 'A clone of the Goibibo travel platform with dynamic search and booking features.',
             githubLink: 'https://github.com/Aryan2vb/EndSem-Project---Goibibo---EndSem-Projects-Goibibo---xcib2gttdyqe.git',
