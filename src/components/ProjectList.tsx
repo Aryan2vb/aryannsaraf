@@ -4,6 +4,24 @@ import { Project } from './Project';
 export function ProjectList() {
     const projects = [
         {
+            title: 'Aurum',
+            description: 'Brought billing, inventory, credit, advances, and cash management together for Indian jewelry retailers. Added bank reconciliation, GST reporting, staff permissions, and WhatsApp invoice sharing to reduce manual work.',
+            githubLink: 'https://github.com/Aryan2vb/aurum',
+            liveLink: 'https://sarafa-bazar.com',
+        },
+        {
+            title: 'Ornava',
+            description: 'Simplified jewelry catalog creation for Indian jewelers through a no-prompt workflow from raw photo to AI-generated, shareable product image. Structured around guided presets, quality feedback, credits, batch generation, and WhatsApp buyer discovery.',
+            githubLink: 'https://github.com/Aryan2vb/ornava',
+            liveLink: 'https://ornava.sarafa-bazar.com/',
+        },
+        {
+            title: 'Slate (AI Meeting Copilot)',
+            description: 'Helped professionals prepare for meetings and capture key decisions using calendar context, AI transcription, and offline notes. Focused on privacy and reliability with consent-based recording and automatic audio deletion.',
+            githubLink: 'https://github.com/Aryan2vb/slate',
+            liveLink: '',
+        },
+        {
             title: 'GeoQuery',
             description: 'Natural Language to Spatial Query Translation - A secure middleware for converting natural language queries like "Find schools within 5km of hospitals" into optimized PostGIS SQL for Delhi OpenStreetMap data.',
             githubLink: 'https://github.com/Aryan2vb/GeoQuery',
